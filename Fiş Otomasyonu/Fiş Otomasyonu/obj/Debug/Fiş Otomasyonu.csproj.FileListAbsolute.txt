@@ -1,0 +1,30 @@
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\x86\tesseract50.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\x64\tesseract50.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\Fiş Otomasyonu.exe.config
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\Fiş Otomasyonu.exe
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\Fiş Otomasyonu.pdb
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\Tesseract.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\obj\Debug\Fiş Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\obj\Debug\Fiş_Otomasyonu.Form1.resources
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\obj\Debug\Fiş_Otomasyonu.Properties.Resources.resources
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\obj\Debug\Fiş Otomasyonu.csproj.GenerateResource.cache
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\obj\Debug\Fiş Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\obj\Debug\Fiş Otomasyonu.exe
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\obj\Debug\Fiş Otomasyonu.pdb
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Memory.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Memory.xml
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\baris\source\repos\Fiş Otomasyonu\Fiş Otomasyonu\bin\Debug\System.Drawing.Common.dll
